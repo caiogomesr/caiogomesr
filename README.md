@@ -1,3 +1,3 @@
-Meu Nome é Caio Marques
-Tenho interesse em aprender mais sobre programação e desenvolver minha carreira DEV
-Estou realizando cursos de Programação em C#, Python e SQL Server
+My name is Caio Ribeiro
+I'm interested in learning more about programming and developing my DEV career
+I'm currently taking courses in Python and JavaScript programming.
