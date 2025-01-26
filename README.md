@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate programming student, exploring th
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/caiogomesr/)]
+- LinkedIn: [(https://www.linkedin.com/in/caiogomesr/)]
 - Email: [caiomgr@hotmail.com]
 
 ## 📈 GitHub Stats
