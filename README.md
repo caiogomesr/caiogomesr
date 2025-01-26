@@ -31,3 +31,5 @@ Welcome to my GitHub profile! I'm a passionate programming student, exploring th
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and star any projects you find interesting. 😊
+
+![Snake animation](https://github.com/caiogomesr/caiogomesr/blob/output/github-contribution-grid-snake.svg)
