@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate programming student, exploring th
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[caiogomesr]&show_icons=true&count_private=true)
 
 ---
 
